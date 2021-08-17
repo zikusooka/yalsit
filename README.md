@@ -1,6 +1,5 @@
 ![Twitter](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40jzikusooka)](https://twitter.com/jzikusooka)
 ![alt text](screenshots/yalsit.png "Yet Another Linux System Information Tool (YALSIT)")
-![alt text](screenshots/yalsit.png "YALSIT")
 
 Introduction
 ------------
